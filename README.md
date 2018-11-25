@@ -8,7 +8,7 @@ Do not fear the dark of night.
 
 ### Before we begin.... a few notes on terminology:
 In the programming world, we have at least 3 words for most things.  
-The reasons why this is true are both banal, and beyond the scope of both this tutorial.
+The reasons for this are both banal and beyond the scope of both this tutorial.
 
 Separately: if you are a Computer Science person and wish to quibble over the precise meaning of these terms, or feel compelled to note that in certain obscure circumstances these terms are actually not fully synonymous:
  - I already know.
